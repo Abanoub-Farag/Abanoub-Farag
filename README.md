@@ -13,14 +13,6 @@
 
 <hr />
 
-<!-- About Me Section -->
-### 🎯 Engineering Principles
-* 🏗️ **Architectural Design:** Dedicated to applying clean architecture principles (SOLID) to build testable, highly maintainable services.
-* ⚙️ **Workflow Automation:** Operating fully within Unix environments, maintaining custom terminal configurations for high-efficiency development.
-* 📚 **Source-First Learning:** Driven by deep technical documentation, specifications, and foundational software engineering literature.
-
-<hr />
-
 <!-- Productivity & Analytics Section -->
 ### 📊 Productivity & Analytics
 
