@@ -1,4 +1,12 @@
-## Hi there 👋
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,30&height=180&section=header&text=Abanoub%20Farag&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=" width="100%"/>
+
+</div>
+
+<br/>
+
+
 
 [![wakatime](https://wakatime.com/badge/user/1ed12bb9-0277-46ec-8d62-a5d49233c793.svg)](https://wakatime.com/@1ed12bb9-0277-46ec-8d62-a5d49233c793)
 
