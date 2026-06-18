@@ -4,7 +4,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/status-updating-brightgreen.svg">
-    <img src="https://img.shields.io/badge/java-26-FF1493.svg">
+    <img src="https://img.shields.io/badge/java-25-FF1493.svg">
     <img src="https://img.shields.io/github/contributors/Abanoub-Farag/Abanoub-Farag?color=blue">
     <img src="https://img.shields.io/github/stars/Abanoub-Farag/Abanoub-Farag.svg?logo=github">
     <img src="https://img.shields.io/github/forks/Abanoub-Farag/Abanoub-Farag.svg?color=blue&logo=github">
