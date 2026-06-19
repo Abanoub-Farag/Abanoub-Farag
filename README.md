@@ -24,7 +24,7 @@
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Abanoub's github stats](https://github-readme-stats.vercel.app/api?username=Abanoub-Farag&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abanoub-Farag&theme=radical&layout=compact) |
+| ![Abanoub's github stats](https://github-readme-stats.vercel.app/api?username=Abanoub-Farag&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abanoub-Farag&&exclude_repo=UK-Train-Rides&theme=radical&layout=compact) |
 
 
 <!-- Productivity & Analytics Section -->
