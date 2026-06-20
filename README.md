@@ -22,27 +22,11 @@
 
 <hr />
 
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Abanoub's github stats](https://github-readme-stats.vercel.app/api?username=Abanoub-Farag&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abanoub-Farag&&exclude_repo=UK-Train-Rides&theme=radical&layout=compact) |
-
-
-<!-- Productivity & Analytics Section -->
-### 📊 Productivity & Analytics
-
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://wakatime.com/@1ed12bb9-0277-46ec-8d62-a5d49233c793">
-          <img src="https://wakatime.com/badge/user/1ed12bb9-0277-46ec-8d62-a5d49233c793.svg" alt="wakatime" height="38"/>
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Abanoub-Farag&theme=tokyonight&hide_border=true" width="410" alt="GitHub Streak Stats" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/Abanoub-Farag">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abanoub-Farag&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abanoub-Farag&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abanoub-Farag&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abanoub-Farag&theme=2077" height="180em" />
+  <p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abanoub-Farag&" alt="Abanoub-Farag" /></p>
 </div>
-
-<hr />
