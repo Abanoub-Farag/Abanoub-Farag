@@ -14,11 +14,11 @@
 <br />
 
 <!-- Introduction Section -->
-<div align="center">
-  <h2>👋 Welcome to my GitHub Profile!</h2>
-  <p>Backend Software Engineer</p>
-  <p>Focused on constructing resilient backend systems, maintaining robust database schemas, and adhering to strict architectural principles.</p>
-</div>
+<!-- <div align="center"> -->
+  <!-- <h2>👋 Welcome to my GitHub Profile!</h2> -->
+  <!-- <p>Backend Software Engineer</p> -->
+  <!-- <p>Focused on constructing resilient backend systems, maintaining robust database schemas, and adhering to strict architectural principles.</p> -->
+<!-- </div> -->
 
 <hr />
 
@@ -27,6 +27,5 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abanoub-Farag&theme=2077" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abanoub-Farag&theme=2077" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abanoub-Farag&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abanoub-Farag&theme=2077" height="180em" />
   <p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abanoub-Farag&" alt="Abanoub-Farag" /></p>
 </div>
