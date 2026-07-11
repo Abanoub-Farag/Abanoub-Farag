@@ -22,8 +22,8 @@
 
 <hr />
 
-[![](https://ghstats.dev/api/card?username=AbanoubFarag&theme=tokyonight)](https://github.com/AbanoubFarag/GitHub-profile-stats)
-![](https://readme-stats-github.pages.dev/api/top-langs?username=AbanoubFarag&theme=shadow&hide_border=true&layout=compact&count_private=true)
+[![](https://ghstats.dev/api/card?username=Abanoub-Farag&theme=tokyonight)](https://github.com/Abanoub-Farag/GitHub-profile-stats)
+![](https://readme-stats-github.pages.dev/api/top-langs?username=Abanoub-Farag&theme=shadow&hide_border=true&layout=compact&count_private=true)
 
 ---
 
