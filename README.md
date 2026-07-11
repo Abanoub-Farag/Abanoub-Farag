@@ -29,3 +29,11 @@
 
 ### 🚀 Currently Building
 - Virtual Workspace
+
+## Tech I use
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,git,github,linux" />
+
+</p>
