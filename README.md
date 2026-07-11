@@ -22,10 +22,10 @@
 
 <hr />
 
-<div align="center">
-  <a href="https://github.com/Abanoub-Farag">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abanoub-Farag&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abanoub-Farag&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abanoub-Farag&theme=2077" height="180em" />
-  <p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abanoub-Farag&" alt="Abanoub-Farag" /></p>
-</div>
+[![](https://ghstats.dev/api/card?username=AbanoubFarag&theme=tokyonight)](https://github.com/AbanoubFarag/GitHub-profile-stats)
+![](https://readme-stats-github.pages.dev/api/top-langs?username=AbanoubFarag&theme=shadow&hide_border=true&layout=compact&count_private=true)
+
+---
+
+### 🚀 Currently Building
+- Virtual Workspace
