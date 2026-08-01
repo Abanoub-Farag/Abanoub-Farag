@@ -34,6 +34,6 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,git,github,linux,maven,idea" />
 
 </p>
