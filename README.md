@@ -1,7 +1,5 @@
 # Abanoub Farag
 
-### Backend Engineer | Java & Spring Boot
-
 I enjoy understanding how backend systems work internally and building reliable APIs with clean architecture, secure authentication, and efficient data access.
 
 ## Tech Stack
@@ -9,26 +7,9 @@ I enjoy understanding how backend systems work internally and building reliable 
 * Spring Boot
 * PostgreSQL
 
-## Featured Project
+## Featured Projects
 
-### Productivity Center
-
-A full-stack productivity and collaboration platform built with Java and Spring Boot.
-
-The backend includes:
-
-* Modular domain architecture
-* JWT authentication with refresh-token rotation
-* Token revocation
-* Role and resource ownership authorization
-* Redis-backed heartbeat presence tracking
-* Database query optimization
-* Spring Data pagination
-* Rate limiting
-* Asynchronous application events
-* PostgreSQL and Flyway migrations
-* Docker Compose
-* OpenAPI / Swagger
+[Productivity Center](https://github.com/Abanoub-Farag/Productivity-Center)
 
 ## Connect
 
